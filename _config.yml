@@ -1,0 +1,9 @@
+markdown: kramdown
+highlighter: pygments
+
+repository: https://github.com/jekyll/jekyll
+help_url: https://github.com/jekyll/jekyll-help
+
+collections:
+  docs:
+    output: true
